@@ -14,7 +14,7 @@ In Next.js, a **page** is a [React Component](https://react.dev/reference/react/
 
 ```
 function About() {
-  return <div>About</div>
+  return <div>Enola's Blog</div>
 }
 
 export default About
